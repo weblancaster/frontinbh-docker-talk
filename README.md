@@ -9,3 +9,5 @@
 2. `npm run build`
 3. `docker-compose -f docker-compose.yml up -d`
 4. that's it! there is no step 4.
+
+Go to `http://localhost:8080` and `http://localhost:3000/api`.
