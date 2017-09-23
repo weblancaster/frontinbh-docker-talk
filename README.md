@@ -6,5 +6,6 @@
 ### Steps
 
 1. `npm i`
-2. `docker-compose -f docker-compose.yml up -d`
-3. that's it!
+2. `npm run build`
+3. `docker-compose -f docker-compose.yml up -d`
+4. that's it! there is no step 4.
